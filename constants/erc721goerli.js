@@ -23,10 +23,10 @@ export const erc721goerli = [
         id: 3,
         chain: 5,
         symbol: "eth",
-        name: "HumanoidGoerli",
-        address: "0x40026e0c3B135e04387aFb86C997941AC877dCd6",
+        name: "Humanoid",
+        address: "0x457eA01c0CdFe8bA47C28743cD7b94B56161523D",
         pic: "https://i.seadn.io/gcs/files/89252090ba8e7fc08bbd456fee2de638.gif",
         scan: "https://goerli.etherscan.io/address/",
-        opensea: "humanoidgoerli",
+        opensea: "humanoid",
     },
 ]
