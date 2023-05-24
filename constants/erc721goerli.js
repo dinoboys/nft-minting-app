@@ -24,7 +24,7 @@ export const erc721goerli = [
         chain: 5,
         symbol: "eth",
         name: "Humanoid",
-        address: "0x457eA01c0CdFe8bA47C28743cD7b94B56161523D",
+        address: "0xc06Ce325fcCceAAeb809F00D1A9F7e844Bd8Ff09",
         pic: "https://i.seadn.io/gcs/files/89252090ba8e7fc08bbd456fee2de638.gif",
         scan: "https://goerli.etherscan.io/address/",
         opensea: "humanoid",
