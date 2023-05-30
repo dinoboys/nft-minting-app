@@ -29,4 +29,15 @@ export const erc721goerli = [
         scan: "https://goerli.etherscan.io/address/",
         opensea: "humanoid3d",
     },
+    {
+        id: 4,
+        chain: 5,
+        symbol: "eth",
+        name: "Flappy Owl Onchain",
+        address: "0xA12322ADDe12565FD25f23aB42140790d19d64bF",
+        pic: "https://openseauserdata.com/files/003d0bad7ad70dc2de9e306f121f84b7.svg",
+        scan: "https://goerli.etherscan.io/address/",
+        opensea: "flappy-owl-onchain",
+        // not verify
+    },
 ]
