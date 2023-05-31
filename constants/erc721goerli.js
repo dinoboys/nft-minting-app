@@ -40,4 +40,15 @@ export const erc721goerli = [
         opensea: "flappy-owl-onchain",
         // not verify
     },
+    {
+        id: 5,
+        chain: 5,
+        symbol: "eth",
+        name: "Robustus Mus",
+        address: "0x25c0B0dCc3DCAA32A203A02Ae27735b5F8bAF80b",
+        pic: "https://openseauserdata.com/files/003d0bad7ad70dc2de9e306f121f84b7.svg",
+        scan: "https://goerli.etherscan.io/address/",
+        opensea: "robustus-mus",
+        // not verify
+    },
 ]
