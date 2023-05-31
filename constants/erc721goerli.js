@@ -46,7 +46,7 @@ export const erc721goerli = [
         symbol: "eth",
         name: "Robustus Mus",
         address: "0x25c0B0dCc3DCAA32A203A02Ae27735b5F8bAF80b",
-        pic: "https://openseauserdata.com/files/003d0bad7ad70dc2de9e306f121f84b7.svg",
+        pic: "https://i.seadn.io/gcs/files/749ccb0e43ef45ce2cc5f3d455ad135f.gif",
         scan: "https://goerli.etherscan.io/address/",
         opensea: "robustus-mus",
         // not verify
